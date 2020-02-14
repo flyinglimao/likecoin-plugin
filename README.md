@@ -6,7 +6,7 @@ LikeCoin Button 插件
 
 使用方式
 ----
-在需要加入 LikeCoin 頁面，從左方的 Components / 組件中，找到 LIKECOIN PLUGIN，點擊 LikeCoin Button，將組件加入到頁面中
+在需要加入 LikeCoin 頁面，從左方的 Components / 組件中，找到 LIKECOIN PLUGIN，點擊 LikeCoin Button，將組件加入到頁面中。並將下面程式碼插入到目標位置。  
 ` {% component "likeCoinButton" %} `  
 
 點擊上方的 LikeCoin Button，設定 Creator 為創作者的 ID。（登入 LikeCoin 後，右上角顯示的字串。）  
